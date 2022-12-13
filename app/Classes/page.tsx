@@ -1,4 +1,5 @@
 import React from 'react'
+import ClassBlocks from './ClassBlocks'
 
 type Props = {}
 
@@ -14,7 +15,5 @@ export async function getStaticProps(){
         props: {}
     }
 }
-
-//Test 1
 
 export default Grades

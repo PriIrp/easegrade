@@ -1,4 +1,5 @@
 import React from 'react'
+import StudentItem from './StudentItem'
 
 type Props = {}
 
@@ -18,7 +19,5 @@ export async function getStaticProps(){
         props: {}
     }
 }
-
-//Testing
 
 export default Class
